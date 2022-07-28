@@ -1,3 +1,2 @@
 cmd:cat /etc/passwd   // --> to see users 
-
-branch main created
+cmd:ssh jenkins.local
